@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  background: linear-gradient(to right, #b300ff, #00aeff);
+  cursor: default;
+}
+
+/*  box-shadow: 10px 5px 5px;*/
+
+header {
+  width: 100%;
+  min-height: 35px;
+  margin-top: 0px;
+}
+
+.thx {
+  margin: 25px;
+  padding: 10px 0px;
+  font-size: 25px;
+  color: #090921;
+  text-decoration: none;
+}
+
+.footer {
+  background: linear-gradient(to right, #b300ff, #00aeff);
+  height: 90px;
+    margin-left: 50px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    transition: 0.5s;
+    cursor: default;
+}
+
+.KeRain {
+  margin-left: 50px;
+  color: #FFFFFF;
+  margin-top: 20px;
+  transition: 0.5s;
+  cursor: default;
+}
+
+h1:hover {
+
+}
+
+.rain {
+  width: 120px;
+  transition: 0.5s;
+}
+
+.rain:hover {
+  text-shadow: 0px 0px 10px #e7c4ff; /*#8634eb*/
+  margin-left: 20px;
+  transition: 0.5s;
+}
+
+.body {
+  width: 100%;
+  min-height: 750px;
+  background: #FFFFFF;
+  /*background: linear-gradient(to right, #b300ff, #00aeff);*/
+}
+
+.hi {
+  padding: 10px 0px;
+  font-size: 25px;
+  color: #090921;
+  margin-left: 50px;
+}
+
+.hi1 {
+  padding: 25px 0 0 25px;
+  font-size: 35px;
+  margin: 0;
+}
+
+.hi_title {
+  color: #8634eb;
+}
+
+.design {
+  margin-left: 50px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #090921;
+  margin-top: 20px;
+  transition: 0.5s;
+  background-color: #FFF;
+  border-radius: 5px;
+}
+
+.design:hover {
+  background: linear-gradient(to right, #b300ff55, #00aeff55);
+  color: #FFF;
+  padding: 5px 10px;
+  transition: 0.5s;
+}
+
+.music {
+  margin-left: 50px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #090921;
+  margin-top: 20px;
+  transition: 0.5s;
+  background-color: #FFF;
+  border-radius: 5px;
+}
+
+.music:hover {
+  background: linear-gradient(to right, #b300ff55, #00aeff55);
+  color: #FFF;
+  padding: 5px 10px;
+  transition: 0.5s;
+}
+
+.github {
+  margin-left: 50px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #090921;
+  margin-top: 20px;
+  transition: 0.5s;
+  background-color: #FFF;
+  border-radius: 5px;
+}
+
+.github:hover {
+  background: linear-gradient(to right, #b300ff55, #00aeff55);
+  color: #FFF;
+  padding: 5px 10px;
+  transition: 0.5s;
+}
+
+.mail {
+  color: #FFF;
+}
+
+.down1 {
+  padding: 10px 0px;
+  font-size: 25px;
+  color: #090921;
+  text-decoration: none;
+}
+
+.images {
+  z-index: 2;
+  margin-bottom: -40px;
+  margin-top: 60px;
+  transition: 0.5s;
+}
+
+.card {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.5s;
+}
+
+.card:hover .images {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  transition: 0.5s;
+}
+
+.clear-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.list1 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.muslist {
+  margin: 25px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
